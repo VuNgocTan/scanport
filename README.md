@@ -1,8 +1,8 @@
 ### Giới thiệu
 Quét tất cả các port đang mở của 1 host
 ### Cách dùng
-git clone directory về hoặc copy raw
+wget https://raw.githubusercontent.com/VuNgocTan/scanport/master/scanport.py
 
-chmod +x tenfile.py
+chmod +x scanport.py
 
-./tenfile.py
+python scanport
