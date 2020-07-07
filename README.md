@@ -9,4 +9,4 @@ chmod +x scanport.py
 
 và
 
-python scanport
+./scanport.py
